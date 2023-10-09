@@ -3,16 +3,16 @@
 */
 
 html {
-  @media (prefers-color-scheme: light) {
-    &:not([data-mode]),
-    &[data-mode='light'] {
-      @include light-scheme;
-    }
+  // @media (prefers-color-scheme: light) {
+  //   &:not([data-mode]),
+  //   &[data-mode='light'] {
+  //     @include light-scheme;
+  //   }
 
-    &[data-mode='dark'] {
-      @include dark-scheme;
-    }
-  }
+  //   &[data-mode='dark'] {
+  //     @include dark-scheme;
+  //   }
+  // }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
@@ -20,9 +20,9 @@ html {
       @include dark-scheme;
     }
 
-    &[data-mode='light'] {
-      @include light-scheme;
-    }
+    // &[data-mode='light'] {
+    //   @include light-scheme;
+    // }
   }
 
   font-size: 16px;
