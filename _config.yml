@@ -70,7 +70,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+# img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "https://postfiles.pstatic.net/MjAyMzEwMTBfMTQ5/MDAxNjk2ODc2NTQxNTI4.kZuQqBhhs5yTR66Ryk-wF6EUdTcHhxBsMVc6A_Cwqk8g.NjSSVLRuArKIZrRFmLEyKoTstrB0xKnk92yC0R3wiBsg.PNG.lililililillillil/notion-avatar-1696696440817.png?type=w773"
