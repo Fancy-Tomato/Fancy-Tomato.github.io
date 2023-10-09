@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 # img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://postfiles.pstatic.net/MjAyMzEwMTBfMTQ5/MDAxNjk2ODc2NTQxNTI4.kZuQqBhhs5yTR66Ryk-wF6EUdTcHhxBsMVc6A_Cwqk8g.NjSSVLRuArKIZrRFmLEyKoTstrB0xKnk92yC0R3wiBsg.PNG.lililililillillil/notion-avatar-1696696440817.png?type=w773"
+avatar: "assets/img/profile/notion-avatar-1696696440817.PNG"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
