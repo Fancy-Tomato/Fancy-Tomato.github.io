@@ -14,7 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fancy Tomato # the main title
+title: 
+'''Fancy 
+Tomato''' # the main title
 
 tagline: 멋쟁이 토마토  # it will display as the sub-title
 
