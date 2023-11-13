@@ -729,7 +729,7 @@ $btn-mb: 0.5rem;
   }
 
   .profile-wrapper {
-    @include mt-mb(2.5rem);
+    @include mt-mb(1.25rem);
     @extend %clickable-transition;
     padding-left: 1.25rem;
     padding-right: 1.25rem;
