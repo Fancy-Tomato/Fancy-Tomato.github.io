@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Fancy Tomato # the main title
 
-tagline: 멋쟁이 토마토  # it will display as the sub-title
+tagline: fancy-tomato  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
